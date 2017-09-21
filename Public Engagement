@@ -1,0 +1,187 @@
+{{KU_Leuven}}
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style type="text/css">
+        * {box-sizing:border-box}
+        body {font-family: Verdana,sans-serif;}
+        .mySlides {display:none}
+        
+        
+        .slideshow-container {
+          max-width: 1000px;
+          position: relative;
+          margin: auto;
+        }
+
+        /* Caption text */
+        .text {
+          color: #f2f2f2;
+          font-size: 15px;
+          padding: 8px 12px;
+          position: absolute;
+          bottom: 8px;
+          width: 100%;
+          text-align: center;
+        }
+
+        /* Number text (1/3 etc) */
+        .numbertext {
+          color: #f2f2f2;
+          font-size: 12px;
+          padding: 8px 12px;
+          position: absolute;
+          top: 0;
+        }
+
+        /* The dots/bullets/indicators */
+        .dot {
+          height: 13px;
+          width: 13px;
+          margin: 0 2px;
+          background-color: #bbb;
+          border-radius: 50%;
+          display: inline-block;
+          transition: background-color 0.6s ease;
+        }
+
+        .active {
+          background-color: #717171;
+        }
+
+        /* Fading animation */
+        .fade {
+          -webkit-animation-name: fade;
+          -webkit-animation-duration: 1.5s;
+          animation-name: fade;
+          animation-duration: 1.5s;
+        }
+
+        @-webkit-keyframes fade {
+          from {opacity: .4} 
+          to {opacity: 1}
+        }
+
+        @keyframes fade {
+          from {opacity: .4} 
+          to {opacity: 1}
+        }
+
+        /* On smaller screens, decrease text size */
+        @media only screen and (max-width: 300px) {
+          .text {font-size: 11px}
+        }
+
+        .person h3::before,
+        .person h3::after {
+            content: '"';
+        }
+
+        .person h2 {
+            padding-bottom: 0;
+        }
+
+        .person h3 {
+            margin: 0;
+            padding: 0;
+
+            font-size: 1em;
+            text-align: right;
+
+            font-style: italic;
+
+            padding: 0px 15px;
+            border-bottom: 0px;
+            color: #000;
+            font-family: Tahoma, Geneva, sans-serif !important;
+            font-weight: 100 !important;
+        }
+        </style>
+        </head>
+         
+        <h1 align="center"> Public Engagement</h1>
+        <p></p>
+        
+
+        <div class="slideshow-container">
+
+        <div class="mySlides fade">
+          <div class="numbertext">1 / 3</div>
+          <img src="http://2017.igem.org/wiki/images/4/47/KU_Leuven_Boxslider_2.png" style="width:100%">
+          <div class="text">Public Engagement</div>
+        </div>
+
+        <div class="mySlides fade">
+          <div class="numbertext">2 / 3</div>
+          <img src="http://2017.igem.org/wiki/images/1/1b/KULeuven_Boxslider.png" style="width:100%">
+          <div class="text">Public Engagement</div>
+        </div>
+
+        <div class="mySlides fade">
+          <div class="numbertext">3 / 3</div>
+          <img src="http://2017.igem.org/wiki/images/4/41/KU_Leuven_Boxslider3.png" style="width:100%">
+          <div class="text">Public Engagement</div>
+        </div>
+
+        </div>
+        <br>
+
+        <div style="text-align:center">
+          <span class="dot"></span> 
+          <span class="dot"></span> 
+          <span class="dot"></span> 
+        </div>
+        <div class="team" id="team">
+          <div class="container">
+
+                <div class="person col-md-4">
+                    <div class="image">
+                        <img src="http://2017.igem.org/wiki/images/a/aa/KU_Leuven_Box3-01.png"/>
+                    </div>
+                    <h2>Public Engagement</h2>
+                    <p style="text-align:justify">Coming Soon</p>
+                </div>
+
+                <div class="person col-md-4">
+                    <div class="image">
+                        <img src="http://2017.igem.org/wiki/images/b/be/KU_Leuven_Box1-01.png" />
+                    </div>
+                    <h2>Public Engagement</h2>
+                    <p style="text-align:justify">Coming Soon.</p>
+                </div>
+                <div class="person col-md-4">
+                    <div class="image">
+                        <img src="http://2017.igem.org/wiki/images/3/3f/KULeuven_Box2-01.png" />
+                    </div>
+                    <h2>Public Engagement</h2>
+                    <p style="text-align:justify"> Coming Soon</p>
+                    </div>
+                </div>
+          </div>
+        </div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    for (i = 0; i < slides.length; i++) {
+       slides[i].style.display = "none";  
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}    
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " active";
+    setTimeout(showSlides, 1000); // Change image every 2 seconds
+}
+</script>
+
+</body>
+</html> 
+{{KU_Leuven_footer}}
