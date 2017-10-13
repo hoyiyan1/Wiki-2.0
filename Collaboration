@@ -1,0 +1,57 @@
+{{KU_Leuven}}
+<html>
+<style type="text/css">
+        
+        h4 {
+            margin-bottom: 10px;
+        }
+        .background{
+            background:url(http://2017.igem.org/wiki/images/c/cb/KU_Leuven_Homepage2.png);
+            position: initial;
+            background-size: 100%;
+            padding: 0 10px 0 10px;
+        }
+
+        #grad {
+            background: -webkit-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Safari 5.1-6.0 */
+            background: -o-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Opera 11.1-12.0 */ 
+            background: -moz-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Firefox 3.6-15 */
+            background: linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Standard syntax */
+        }
+        
+        p {
+           text-align:justify;
+           font-size: 20px;
+        }
+        </style>
+        
+            <div id="grad">
+                    
+                        <br>
+                    
+                        <div class="background">
+                            <h1 style="text-align:center; padding: 30px; font-size:50px; color: white;">Collaboration</h1>
+                                <p style="color: white; padding: 10px 10px 60px 10px; font-size:15px;">Our ability to write,  read and share knowledge yields high attribution to human intelligence and its modernized environment. Without it, we won’t be able to stand where we are. Scientists from all over the world work relentlessly on their research projects, all aiming for the same goal; to accomplish innovative and groundbreaking research, such that novel and valuable knowledge can be spread across the world, and it is very unfortunate if these get lost because of language barriers. </p>
+                        
+                        </div>
+                    <br>
+                    <div class="container">
+                    
+                        <p style="text-align:justify; padding: 0px 50px 0px 50px;">
+                            The most common language that science is shared in and communicated throughout is English, which is understood and spoken by most people. However, not everyone is able to learn English due to poverty, isolation and tradition. That is why we came up with a translation service. We aim to give everyone the opportunity to be informed of what iGEM is and what the students achieve during this competition. It is also a great way for them to get in touch with synthetic biology and genetic manipulation and to explore its potential for reproducibility, something that is currently held back and limited due to negative perceptions by the masses. 
+
+The purpose of this service is to translate the project descriptions of every team that we collaborate with into as many languages as possible. To facilitate this collaboration, we created a Google Drive account in which every collaborating team has been granted access as well as their own folder. Every team adds their project description in their corresponding folder and every collaborating team will translate each other’s descriptions into their own native language, in which they will put the translated file next to the original team description in the folder of the translated team. In the end, every team’s folder should contain a list of files with different languages, such that people from every corner of the world can read project descriptions that are available in their native language(s). 
+
+During the competition, 15 fellow iGEM teams, for which we express our deepest gratitude, were willing to collaborate with us and make the projects more accessible to less educated people. We also chose to implement this collaboration on our Wiki-page as a kind reminder that the project descriptions are available in different native languages. Our translation feature is recognizable by its country flags. By clicking on the flag, you can switch to the language(s) spoken in this country. 
+<br>
+<br>
+Make sure to check them out and to learn more about what the projects are all about through the power of words from your own country!</p>
+
+                    </div>
+
+
+
+        
+        
+</html>
+{{KU_Leuven_footer}}
