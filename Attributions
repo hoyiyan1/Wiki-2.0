@@ -1,0 +1,83 @@
+{{KU_Leuven}}
+<html>
+<style type="text/css">
+        
+        h4 {
+            margin-bottom: 10px;
+        }
+        .background{
+            background:url(http://2017.igem.org/wiki/images/c/cb/KU_Leuven_Homepage2.png);
+            position: initial;
+            background-size: 100%;
+            padding: 0 10px 0 10px;
+        }
+
+        #grad {
+            background: -webkit-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Safari 5.1-6.0 */
+            background: -o-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Opera 11.1-12.0 */ 
+            background: -moz-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Firefox 3.6-15 */
+            background: linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Standard syntax */
+        }
+        
+        p {
+           text-align:justify;
+           font-size: 20px;
+        }
+        </style>
+        
+            <div id="grad">
+                    
+                        <br>
+                    
+                        <div class="background">
+                            <h1 style="text-align:center; padding: 30px; font-size:50px; color: white;">Attributions</h1>
+                                <p style="color: white; padding: 10px 10px 60px 10px; font-size:15px;"><strong>HEKcite!</strong> Inspired by the human heart rhythm, we aim to create an electrophysiological oscillator from eukaryotic cells. Rhythmic contraction of heart cells is coordinated by a small group of cells located in the sinus node, which have an intrinsic frequency of de- and repolarization. This frequency of electrical oscillation is influenced by environmental parameters as well as certain molecular substrates. The oscillator that we aim to create consists of genetically modified excitable Human Embryonic Kidney (HEK) cells, altered to contain the intrinsic pacemaker ability found in sinus cells. As witnessed in heart cells, the rhythm would be dependent on substrate-activated ion channels in the membrane. As there is a great variety of ion channels available in nature, the oscillator could be modified to measure concentrations of many specific substrates. By integrating a certain ion channel into the oscillating system, specificity for a substrate can be chosen. 
+
+                                Building an electrical oscillator from cells has several advantages. Intra- or extracellular changes that influence the conductance of ion channels in the membrane have an immediate impact on the frequency of oscillation. Once these cells are connected to each other (by for example gap-junctions), they generate an electrical signal that can easily be measured from a distance and non-invasively—similar to the way electrocardiography (ECG) and electroencephalography (EEG) measure electrical activity in the heart and brain. A multi-purpose sensor suitable for this system could be developed for medical and biotechnological applications. One such application is the measurement of drugs that interact with ion channels, such as antipsychotics, anti-epileptics or a certain class of immunosuppressants.</p>
+                        
+                        </div>
+                    <br>
+                    <div class="container">
+                    
+                        <p style="text-align:justify; padding: 0px 50px 0px 50px;">
+                            <h2>Molecular lab work</h2>
+                            Professor Johan Swinnen is a professor and head of the Oncology department at KU Leuven. As our PI, he has provided us with advice, support and lab space. We would also like to thank the rest of his team, especially Frank Vanderhoydonck, for showing us around the lab and helping us with everyday tasks.
+                            <h2>Electrophysiology</h2>
+                            Professor Thomas Voets is head of the laboratory of Ion Channel research at KU Leuven. Apart from allowing us to use his electrophysiology tools, he and his team have learned us several techniques valuable for the project, such as patch clamp and calcium imaging. Furthermore, his lab has kindly provided us with HEK cells stably infected with mHCN2 or hERG genes, and several plasmids containing ion channels, such as mHCN, hERG, and α1G. The assistant of professor Voets, Annelies Janssens, trained us to work with the patch clamp machine which is the central piece of machinery in our project. Without this machine, we couldn’t collect our data.
+                            Professor Chris Ulens is head of the laboratory of structural neurobiology, at the department of cellular and molecular medicine at KU Leuven. He has shared his knowledge of the interactions between ion channels and certain drugs.
+                            <br>
+                            Dr Mieke Nys is part of the laboratory of structural neurobiology and has supplemented our results with extra measurements of the mHCN gene another patch clamp machine.
+                            <h2>Modelling</h2>
+                            Professor Alexander Panfilov is a part of the department of mathematical and theoretical physics at the UGent, specializes in cardiac modelling and has given us advice regarding our model. Furthermore, he has given us the contact details of others who might be able to help.
+                            Nina?
+                            <h2>Hardware and measurement</h2>
+                            Professor Jeroen Lammertyn is head of the Division of Mechatronics, Biostatistics and Sensors (MeBioS) at KU Leuven. We have discussed the possibilities for measurement and data collection from our cells.
+                            Dr. Frederik Ceyssens is a postdoc at MICAS, at the department of electrical engineering at KU Leuven.  We have had a very valuable discussion about the hardware necessary for the measurement of oscillating cells. He helped with the design of the sensor and everything that goes with the sensor, from batteries to the actual sensor itself.
+                            <br>
+                            Dr. Dries Braeken is working for imec’s life science technology group. He has experience measuring cardiomyocytes using micro-electrode arrays (MEAs), and we have discussed the possibilities of measuring our cells in a similar way. Together with his PhD student, Jordi Cools, we tried different sensors and tried to sense the electrical oscillations with the sensor.
+                            Professor Bernard Schneider a senior scientist in the neurodegenerative studies laboratory in the École polytechnique fédérale de Lausanne (EFPL). He has provided us with a sample of an implantable macrocapsule, and has confirmed the possibilities of integrating chips in this device.
+                            Professor Adrian Ranga is specialised in tissue engineering. We discussed biomaterials and the immune implications of implantable devices.
+                            Professor Jennifer Patterson is a specialist in hydrogel structures for tissue engineering. She has given us some ideas about the possibilities of integrating a MEA in a hydrogel structure.
+                            <h2>Human practices</h2>
+                            Professor Monbaliu is a transplant surgeon at the department of microbiology and immunology at UZ Leuven. He has provided us with insights on how the project could influence the field of transplantation medicine.
+                            Transplantoux is a patient organisation for people that have undergone a transplantation. We would like to thank them for bringing us into contact with patients whose insights were extremely valuable for our project.
+                            Professor Wim Van Paesschen is a neurosurgeon and head of the epilepsy research laboratory of UZ Leuven. He has shed light on the importance of therapeutic drug monitoring in the field of epileptics.
+                            Professor Chris Bervoets is a psychiatrist responsible for the department of transcranial magnetic stimulation, the department of deep brain stimulation and the department of compulsive disorders within the University Psychiatric Center of KU Leuven. He has helped us by discussing the several possibilities of our project within the field of psychiatry.
+                            Hier moet nog over die van het laatste gesprek geschreven worden.
+                            <h2>Education</h2>
+                            We would like to thank some middle schools: Sint-Romboutscollege (Mechelen), Go Shill (Mechelen) and Via Tienen (Tienen). We were able to teach amazing kids more about DNA, genetics and the basics of synthetic biology.
+                            Card and Mobile Game
+                            Mindbytes produces serious games and e-learning applications, and has provided us with advice about our games. They gave us advice on how we can incorporate education in a game because we didn’t want to develop a random game. We wanted to create a game that explains to the broad public what synthetic biology is and what genetic manipulation is all about.
+                            Cartamundi is a world-leading producer of playing cards and card games. They have printed our card game, as well as guide the final steps in the card designing process. For this we have to thank Tom Van Den Berghen and Marco Van Haaften.
+                            Dries Deryckere is a teacher in Kortrijk, at Howest College. He works for the department of Digital Art & Entertainment, he looked at the possibilities to help us with the development of the computer game. He tried to recruit some of his students, so they could finish the game as part of their education.
+                             
+                            <h2>Business Plan</h2>
+                            Professor Jos Vander Sloten en Wim Fyen gave us some advice on how to write a complete business plan, we listened to their opinions and tried to implement it. Thanks to them we could create a complete business model.</p>
+                    </div>
+
+
+
+        
+        
+</html>
+{{KU_Leuven_footer}}
