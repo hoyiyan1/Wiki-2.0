@@ -24,7 +24,7 @@
             background: -moz-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Firefox 3.6-15 */
             background: linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Standard syntax */
         }
-        p::first-letter {
+        p.head::first-letter {
             color: #cc3333;
             font-size: 40px;
         }
@@ -33,35 +33,7 @@
            text-align:justify;
            font-size: 20px;
         }
-        .container3 {
-          position: relative;
-          width: 50%;
-        }
-        .overlay {
-          position: absolute;
-          top: 0;
-          bottom: 0;
-          left: 0;
-          right: 0;
-          height: 100%;
-          width: 100%;
-          opacity: 0;
-          transition: .5s ease;
-          background-color: white;
-        }
-        .container3:hover .overlay {
-          opacity: 0.8;
-        }
-        .text {
-          color: #cc3333;
-          font-size: 20px;
-          position: absolute;
-          top: 50%;
-          left: 50%;
-          transform: translate(-50%, -50%);
-          -ms-transform: translate(-50%, -50%);
-
-        }
+        
         </style>
         
             <div id="grad">
@@ -70,34 +42,67 @@
                     
                         <div class="background1">
                             <h1 style="text-align:center; padding: 30px; font-size:50px; color: white;">Education</h1>
-                                <p style="text-align:center;color: white; padding: 10px 10px 60px 10px; font-size:15px;">As education is an integral part of science, we as a team sought to inspire the next generation. To achieve this goal we constructed an educative plan focused on children of the age 10 to 12. The team sat together to discuss the topics we would like to teach these young potential scientists. We quickly concluded that a basic introduction to cells and DNA would be ideal, rather advanced topics for children but still fairly easy and straightforward to explain. We contacted 2 teachers of team members Sissel and Joffré to arrange a meeting. Being used to educate children these teachers were the ideal platform to launch our educative plan to the next level. And even better they were eager to let us perform our ‘lesson’ in their respective classes.  </p>
+                                <p class="head" style="text-align:center;color: white; padding: 10px 10px 60px 10px; font-size:15px;">As education is an integral part of science, we as a team sought to inspire the next generation. To achieve this goal we constructed an educative plan focused on children of the age 10 to 12. The team sat together to discuss the topics we would like to teach these young potential scientists. We quickly concluded that a basic introduction to cells and DNA would be ideal, rather advanced topics for children but still fairly easy and straightforward to explain. We contacted 2 teachers of team members Sissel and Joffré to arrange a meeting. Being used to educate children these teachers were the ideal platform to launch our educative plan to the next level. And even better they were eager to let us perform our ‘lesson’ in their respective classes.  </p>
                         
                         </div>
                     <br>
                     <div class="container">
                     
-                        <p style="text-align:justify; padding: 0px 50px 0px 50px;">
-                            
+                        <p class="head" style="text-align:justify; padding: 0px 50px 0px 50px;">
+                        The beginning of September marks the end of the of the summer vacation, a vacation where elementary children and high-schoolers have had the fair share of rest to the point of forgetting how to use a pen properly. We then came up with the idea, what’s a better way to get their minds ready and eager for a new year of education than by educating them Synthetic Biology? So after sending several mails, the dates of our educative lectures were set and the education sub-part of our team could focus all of their attention on designing the presentation and educative games. <p>
 
-                        With the dates of our lessons set, the education sub-part of our team could focus all of their attention to designing the presentation and educative games. Finally 2 members of the team would go to these schools. While brainstorming we quickly concluded that only a presentation would not be fun enough for children, after all we wanted to keep their attention levels as high as possible. So a lot of effort was put into coming up with a fun and educative way to teach children the basics of cells and DNA. And what better way to make it fun for children than with LEGO. Our presentation was quickly taking shape and ideas were flowing. The day before going to the actual first class the first symptoms of stage fright were starting to be present. “Is the presentation to hard for children to understand?”, “are the educative games fun enough?”. These nerves went away quickly the next day after 18 excited kids, who were clearly ready to learn about biology, entered the classroom. 
+                        <h2>Elementary School</h2>
+                            
+                        <p class="head" style="text-align:justify; padding: 20px 50px 0px 50px;">
+                        For the elementary schools, two members of our team were sent on their mission. They have brainstormed and decided to forgo presentations and powerpoints to make it more fun and interactive for children. Because after all, we wanted to keep their attention levels as high as possible. So, a lot of effort was put into coming up with a fun and educative way to teach children the basics of cells and DNA, and what better way to make it fun for children than with LEGO. Our interactive education project was quickly taking its shape and ideas were flowing. The day before going to the actual first classes, symptoms of stage fright were starting to kick in and our mind started to clog up with concerned thoughts: “Will the information be too difficult for children to understand?” or “Are the educative games fun enough?”. But these nerves went away when the next day was broken through and excited students entered the classroom eager to learn more about biology.
                         <br>
                         <br>
+                        <img src="url" width="40%" style="float: right; margin: 20px 0px 0 20px;" alt="Pictures coming soon!"></img>
                         <br>
-                        <img src="http://2017.igem.org/wiki/images/3/35/KU_Leuven_Education.jpeg" width="40%" style="float: left; margin: 10px 20px 0 0px;"></img>
+                        <br>
                         We started with explaining what scientist are and why they are so important in our lives. This part was completely interactive, so the children all gave their own input in why they think scientists are important. We also asked what inventions they couldn’t miss in their lives. We got every possible answer we could think of, as well as every possible answer we couldn’t ever think of.  The children's opinions ranged from iPhones and the internet, which are pretty predictable, to comics and the toilet. With the introduction completed we moved on to the subject of cells. Since it can be complicated for kids to understand subjects that they can’t see with their own eyes, we started with an easily understandable analogy. We stated that you can see the cells as the bricks that you use to build a house. The children understood this analogy almost immediately, so we could move on to more specific details. We discussed the amount and size of individual cells in our body, while making it as interactive as possible by letting the children make educative guesses about the size and their amount. We used a ruler as a way to explain to kids that the individual cells are to small to see with your own eyes and we calculated the years it would take to count all the cells (over 1 MILLION years of counting) in your body. These illustrative moments helped the kids to understand this rather complex subject better. 
                         It was then time to explain the kids what DNA is and why it is of absolute importance in all living things. We started, like with the explanation of cells, with an analogy. This time we compared the DNA to the instruction booklet you need to build your favorite LEGO set. The individual LEGO pieces are like the cells in our body and you need a instructions on how to assemble them in a defined order, like in the body. With the basic information about cells and DNA taught to the children, it was time to put all of this together in educative games. The children learned about how the inside of a cell operates and how the information present on the DNA is translated to essential biomolecules. 
                         <br>
                         <br>
-                        <img src="http://2017.igem.org/wiki/images/5/55/Education_KuLEUVEN.jpeg" width="40%" style="float: right; margin: 20px 0px 0 20px;"></img>
                         <br>
-                       
+                        <img src="url" width="40%" style="float: right; margin: 20px 0px 0 20px;" alt="Pictures coming soon!"></img>
 
                         The class was divided into 2 groups who performed the same actions. Each group represented the inside of a cell. With subgroups for the core with the DNA inside and subgroups for the mRNA and ribosomes. If the mRNA group correctly passed the right instructions to the ribosomes, a LEGO figure would be the result. The children who had the instruction booklet, and thus represented the DNA, couldn’t leave the core. For another game we gave 4 groups of children different instruction booklets as a result they all build a different simple tower of a couple of LEGO blocks. With this last game we showed how a different instruction booklet results in being different from each other. We talked with the children about why each and every one of us is different and why some handicaps can be the result of faults in your DNA. We made this easier to understand by stating that if the instruction booklet was wrong it would be more difficult to get the right desired result. It seemed important to us that we also taught about these aspects of DNA as it would help children understand and maybe accept handicaps easier.
                         <br>
-
                         <br>
-                        To finish our educative afternoon we introduced the classroom to genetic manipulation. After a short introduction we let their creativity run free, each student received a printed DNA strand with parts missing. In these empty spaces they could stick superhero genes we printed beforehand. Each child could only pick a maximum of 3, and after that they could draw themselves with these superhero powers. If there was any time left we let them present their superpowers and give arguments as to why their choices were the best possible. With this last part our presentation was completely finished. We were super happy to hear al the positive things the children said to us while leaving the classroom. We hope that with our effort maybe a couple of those kids will pursue a scientific degree, but mainly we hope that we made all those children warm for everything scientific. 
-                        </p>
+                        To finish our educative afternoon we introduced the classroom to genetic manipulation. After a short introduction we let their creativity run free, each student received a printed DNA strand with parts missing. In these empty spaces they could stick superhero genes we printed beforehand. Each child could only pick a maximum of 3, and after that they could draw themselves with these superhero powers. If there was any time left we let them present their superpowers and give arguments as to why their choices were the best possible. With this last part our presentation was completely finished. We were super happy to hear al the positive things the children said to us while leaving the classroom. We hope that with our effort maybe a couple of those kids will pursue a scientific degree, but mainly we hope that we made all those children warm for everything scientific. <p>
+                        
+
+                        <h2>Highschool</h2>
+                        <p class="head" style="text-align:justify; padding: 20px 50px 0px 50px;">
+                        For highschool, we targeted students who chose “Sciences” as a study track during their final years of school, because in Belgium, students only start learning about DNA in their last year of school. This means that they enter university with very limited knowledge about DNA and synthetic biology. For some, i.e. those aspiring to study Economics, Business, or Law, that isn’t much of an issue, but for others, i.e. those aspiring to study Medicine or Pharmacy, such knowledge is vital! The lessons that lasted for around two hours were built in such a way to be as interesting and interactive as possible, to make sure we really get through to the minds of the students! For our education project, we want to thank the following school for their support and cooperation:
+                        <ul style="padding: 10px 50px 10px 50px;">
+
+                        <li><a href="https://www.viatienen.be/">Via Tienen</a></li>
+                        <li><a href="http://www.guldensporencollege.be/zuid">Guldensporencollege Zuid</a></li>
+                        <li><a href="http://www.olvp.be/secundair/">Onze Lieve Vrouw Presentatie</a></li> 
+                        </ul>
+
+                        <p style="text-align:justify; padding: 20px 50px 0px 50px;">
+                        During the first hour, we gave a little background about DNA and Genetic Engineering. Kicking off our presentation with the aspects of biotechnology, a very promising field, used in many different domains nowadays (i.e. in agriculture, forensics labs, etc..). We wanted to engage the students in the presentation, which we achieved by asking them to give us examples of how biotechnology can be used to improve different aspects in such domains. With a little of our help, the students started to get drawn into the presentation, sharing some of their bright and creative ideas. We proceeded to also mention the dark side of biotechnology, and how it could be used in unethical ways for the creation of evil. We gave ‘Monsanto’ as an example. Furthermore, we ended the theoretical part of our presentation and started talking about iGEM and our project, HEKcite! It is of the utmost importance that students get to see how the science they learn is implemented in the real life, and not only learn the theory. Mentioning iGEM was an excellent implementation of that. 
+                        <br>
+                        <br>
+                        <img src="http://2017.igem.org/wiki/images/3/35/KU_Leuven_Education.jpeg" width="40%" style="float: left; margin: 10px 20px 10px 0;"></img>
+                        <br>
+                        During the second hour, we aimed to engage the students even more by preparing a debate about the field of biotechnology. The debate was about three topics that will further be explained. Aside from wanting to engage the students, one of goals was to show them how big of a role the field of biotechnology is currently playing and will continue to play in the world.
+                        The first topic was about genomic sequencing. Students were given a situation where they can read and discover their genome for $1000, uncovering facts about their health, wellbeing, and so much more. After giving them some time to think and form an opinion about, we had conflicting opinions. Some were pro the idea, and thought that knowing what to expect in the future when it comes to diseases, can help them to better prepare. Others thought that they would prefer to live each day as it is, and had a strong stance that knowing that you might develop cancer would cause insurance companies or companies to discriminate against you. 
+                        <br>
+                        <br>
+                        <img src="http://2017.igem.org/wiki/images/5/55/Education_KuLEUVEN.jpeg" width="40%" style="float: right; margin: 20px 0px 0 20px;"></img>
+                        <br>
+                        The second topic was about genetically manipulated organisms (GGO’s). We wanted to know if the students would be willing to consume GGO’s such as corn, tomatoes, or even cultured meat. Some students thought that this is indeed the future and that they’re not opposed to eating such manipulated organisms, while others thought that genetically modifying the organisms would make them “too unnatural” and inedible. 
+                        The last topic was about genetically modifying unborns and humans in general. Even though, the students seemed very interested and eager to discuss this topic, we weren’t able to do so due to the lack of time.
+                        <br><br>
+
+                        All in all, we were quite surprised that both the students and the teachers showed great ethusiasm and interest in our project and in the initiative we have taken to further inform students about the field of biotechnology.</p>
+
+
+
 
                     </div>
                     <div class="background2">
@@ -111,7 +116,7 @@
                         <br>
                         <img src="http://2017.igem.org/wiki/images/e/e8/KU_Leuven_Cardgame.png" width="40%" style="float: right; margin: 20px 0px 0 20px;"></img>
                         <br>
-                        Immunity Wars, or as it is called in Dutch: Immuniteitsstrijd, is a game based on our very own immune system and the bacteria and viruses we fight against. Every player has his/her own deck of cards with which they can attack their opponent with different bacteria and viruses such as mycobacterium, clostridium tetanus, etc. Of course, you also have to defend yourself against attacks by using your different immune cells: killer T-cells, macrophages, B-cells, etc. When designing the game, we wanted there to be a clear education aspect. That is why every card has a short and simple explanation about the different bacteria, viruses and immune cells present in the game. Thus, the game is not only playable for people with a scientific background, but for everyone, regardless of their age.
+                        Immunity Wars, or as it is called in <a href="http://2017.igem.org/wiki/images/f/fd/Spelregels.pdf" download="Spelregels">Dutch</a>: Immuniteitsstrijd, is a game based on our very own immune system and the bacteria and viruses we fight against. Every player has his/her own deck of cards with which they can attack their opponent with different bacteria and viruses such as mycobacterium, clostridium tetanus, etc. Of course, you also have to defend yourself against attacks by using your different immune cells: killer T-cells, macrophages, B-cells, etc. When designing the game, we wanted there to be a clear education aspect. That is why every card has a short and simple explanation about the different bacteria, viruses and immune cells present in the game. Thus, the game is not only playable for people with a scientific background, but for everyone, regardless of their age.
                         <br>
                         <br>
 
@@ -119,16 +124,13 @@
                         <br>
                         <br>
                         Don't hesitate any longer! Choose your card below and start playing with the Cardgame Rules!
-                        <div class="container3" style="margin: 0 0 0 50px">
+                
 
                             <a href="http://2017.igem.org/wiki/images/b/b5/Cardgame1.pdf" download="Cardgame Rules">
                             <br>
                             <br>
 
-                                 <img border="0" src="http://2017.igem.org/wiki/images/a/ae/Igem_Cardgame_link.png" alt="KU_Leuven_Cardgame" width="100%" position:relative;>
-                                 <div class="overlay">
-                                    <div class="text">Pick Me</div>
-                                </div>
+                                 <img border="0" src="http://2017.igem.org/wiki/images/a/ae/Igem_Cardgame_link.png" alt="KU_Leuven_Cardgame" width="40%";>
                             </a>
                         </div>
                     </div>
