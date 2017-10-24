@@ -75,12 +75,28 @@
                             <h1 style="text-align:center; padding: 30px; font-size:50px; color: white;">Card Game</h1>
                                 <p style="text-align:center;color: white; padding: 10px 10px 60px 10px; font-size:15px;">..... </p>
                         
-                        </div>
+                    </div>
+                    <div class="container">
+                        <p style="text-align:justify; padding: 20px 50px 0px 50px;">
+                        In our team, education has been something we always thought of as a crucial part of our project. However, there are a lot of different ways to educate and we wanted to give it our best. This is why, we thought of a way to educate young children as well as adults in a fun and interactive way. That is when the idea of creating our very own card game came to mind. But what would this card game be all about? We wanted to keep the science behind our game easy, while concentrating on something each and every one of us is often confronted with. We wanted the card game to cover a topic in which your daily life and even your doctor visits could become more understandable with. And so, Immunity Wars was created.
+                        <br>
+                        <img src="http://2017.igem.org/wiki/images/e/e8/KU_Leuven_Cardgame.png" width="40%" style="float: right; margin: 20px 0px 0 20px;"></img>
+                        <br>
+                        Immunity Wars, or as it is called in Dutch: Immuniteitsstrijd, is a game based on our very own immune system and the bacteria and viruses we fight against. Every player has his/her own deck of cards with which they can attack their opponent with different bacteria and viruses such as mycobacterium, clostridium tetanus, etc. Of course, you also have to defend yourself against attacks by using your different immune cells: killer T-cells, macrophages, B-cells, etc. When designing the game, we wanted there to be a clear education aspect. That is why every card has a short and simple explanation about the different bacteria, viruses and immune cells present in the game. Thus, the game is not only playable for people with a scientific background, but for everyone, regardless of their age.
+                        <br>
+                        <br>
 
+                        We wanted our cardgame to be professionally printed, thus we cooperated with Cartamundi who agreed to sponsor us by printing our cards in 400-fold! In this way, we have 200 Dutch decks and 200 English ones. We distributed the Dutch decks for free during our symposium and to different Belgian families. The English decks will be handed out during the Giant Jamboree in Boston, in this way we hope to reach more people in different parts of the world. This gives different families with different backgrounds the possibility to learn more about their immune system and different infections in an easy and fun environment. And that is what education is all about, make information accessible to a large portion of the population and make them more aware of problems that can occur during their day-to-day life!
+                        <br>
+                        <br>
+                        Don't hesitate any longer! Choose your card below and start playing with the Cardgame Rules! 
+                        <a href="http://2017.igem.org/wiki/images/b/b5/Cardgame1.pdf" download="Cardgame Rules">
+                        <br>
+                        <br>
 
+                             <img border="0" src="http://2017.igem.org/wiki/images/a/ae/Igem_Cardgame_link.png" alt="KU_Leuven_Cardgame" width="30%"></a>
+                    </div>
 
-
-        
-        
+       
 </html>
 {{KU_Leuven_footer}}
