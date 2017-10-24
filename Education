@@ -33,6 +33,35 @@
            text-align:justify;
            font-size: 20px;
         }
+        .container3 {
+          position: relative;
+          width: 50%;
+        }
+        .overlay {
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          height: 100%;
+          width: 100%;
+          opacity: 0;
+          transition: .5s ease;
+          background-color: white;
+        }
+        .container3:hover .overlay {
+          opacity: 0.8;
+        }
+        .text {
+          color: #cc3333;
+          font-size: 20px;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          -ms-transform: translate(-50%, -50%);
+
+        }
         </style>
         
             <div id="grad">
@@ -89,12 +118,19 @@
                         We wanted our cardgame to be professionally printed, thus we cooperated with Cartamundi who agreed to sponsor us by printing our cards in 400-fold! In this way, we have 200 Dutch decks and 200 English ones. We distributed the Dutch decks for free during our symposium and to different Belgian families. The English decks will be handed out during the Giant Jamboree in Boston, in this way we hope to reach more people in different parts of the world. This gives different families with different backgrounds the possibility to learn more about their immune system and different infections in an easy and fun environment. And that is what education is all about, make information accessible to a large portion of the population and make them more aware of problems that can occur during their day-to-day life!
                         <br>
                         <br>
-                        Don't hesitate any longer! Choose your card below and start playing with the Cardgame Rules! 
-                        <a href="http://2017.igem.org/wiki/images/b/b5/Cardgame1.pdf" download="Cardgame Rules">
-                        <br>
-                        <br>
+                        Don't hesitate any longer! Choose your card below and start playing with the Cardgame Rules!
+                        <div class="container3" style="margin: 0 0 0 50px">
 
-                             <img border="0" src="http://2017.igem.org/wiki/images/a/ae/Igem_Cardgame_link.png" alt="KU_Leuven_Cardgame" width="30%"></a>
+                            <a href="http://2017.igem.org/wiki/images/b/b5/Cardgame1.pdf" download="Cardgame Rules">
+                            <br>
+                            <br>
+
+                                 <img border="0" src="http://2017.igem.org/wiki/images/a/ae/Igem_Cardgame_link.png" alt="KU_Leuven_Cardgame" width="100%" position:relative;>
+                                 <div class="overlay">
+                                    <div class="text">Pick Me</div>
+                                </div>
+                            </a>
+                        </div>
                     </div>
 
        
