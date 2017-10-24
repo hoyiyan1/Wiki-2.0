@@ -2,37 +2,44 @@
 <html>
 <style type="text/css">
 	.svg{
-		padding: 10px 0px 10px 0px;
+		padding: 0px 0px 10px 0px;
 	}
 
 	#grad {
-            background: -webkit-linear-gradient(#7782b0,#ffd4a6,#afb7d2,#d6cbe1,#edf2f4); /* Safari 5.1-6.0 */
-            background: -o-linear-gradient(#7782b0,#ffd4a6,#afb7d2,#d6cbe1,#edf2f4); /* Opera 11.1-12.0 */ 
-            background: -moz-linear-gradient(#7782b0,#ffd4a6,#afb7d2,#d6cbe1,#edf2f4); /* Firefox 3.6-15 */
-            background: linear-gradient(#7782b0,#ffd4a6,#afb7d2,#d6cbe1,#edf2f4); /* Standard syntax */
+    background: -webkit-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Safari 5.1-6.0 */
+    background: -o-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Opera 11.1-12.0 */ 
+    background: -moz-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Firefox 3.6-15 */
+    background: linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Standard syntax */
+	}
+	.background1{
+            background:url(http://2017.igem.org/wiki/images/c/cb/KU_Leuven_Homepage2.png);
+            position: initial;
+            background-size: 100%;
+            padding: 0 10px 0 10px;
     }
+    p::first-letter {
+            color: #cc3333;
+            font-size: 40px;
+    }
+
+
 	</style>
 <div id="grad">
-<div class="container">
-	<div class="svg">
-	<svg height="auto" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 1000 3000">
-	    <image height="3000px" width="1000px" xlink:href="http://2017.igem.org/wiki/images/5/57/Safety_Bg_Right_Lighter.svg"></image>
-	</svg>
-	</div>
+<br>
+<br>
+						<div class="background1">
+                            <h1 style="text-align:center; padding: 30px; font-size:50px; color: white;">Safety</h1>
+                                <p style="text-align:center;color: white; padding: 0px 10px 60px 10px; font-size:15px;">As safety is a very important aspect of sciences, we wanted to create a professor who could alert is whenever we did something dangerous. After following a recipe, which contained sugar, spice, everything nice and chemical X, Hekky arose from our experiment! But in contrary to what we wanted, Hekky came out as an inexperienced lab buddy to which we had to list up all the rules in order to keep him alive. Please read the following rules down below carefully and help us protect our sweet summer child!</p>
+                        
+                        </div>
+						<div class="container">
+							
+							<svg height="auto" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 1000 3000" style="margin: -100px 0 0 0">
+							    <image height="3000px" width="1000px" xlink:href="http://2017.igem.org/wiki/images/b/bc/Safety_BG_2.0.svg"></image>
+							</svg>
+						</div>
+<
 
 
-<script>
-var i = 0;
-var txt = 'Be careful, you do not want to lose your arms like I did. ;)';
-var speed = 50;
-
-	function typeWriter() {
-	  if (i < txt.length) {
-	    document.getElementById("demo").innerHTML += txt.charAt(i);
-	    i++;
-	    setTimeout(typeWriter, speed);
-	  }
-}
-</script>
 </html>
 {{KU_Leuven_footer}}
