@@ -87,6 +87,9 @@
             padding: 20px;
 
         }
+        p {
+            text-align: justify;
+        }
         
         </style>
         <!--
@@ -181,7 +184,7 @@
                 </div>
 
         <div class="container">
-                        <p>
+                        <p style="text-align:justify";>
                     Our first meeting was with René Custers who is a regulatory and responsible research manager at VIB. VIB stands for Vlaams Instituut voor Biotechnologie, it is an important Flemish institution that conducts research in biotechnology and is an important partner of different companies and Flemish universities. René Custers helped us by giving us several important questions we should consider before proceeding with our project.
                     <br>
                     <br>
@@ -192,11 +195,11 @@
                 <li>-       Is it ethical correct to gain money from widely used cells in research such as HEK cells?</li>
                 <li>-       Would we need to test our device in animals before starting clinical studies?</li>
                 <li>-       How invasive is our device? Resembles it the implantation of a pacemaker or does it come close to cell therapy?</li>
-                    </ul>
+                    </ul></p>
                     <br>
                     <br>
 
-     
+            <p style="text-align:justify";>
             All these questions seemed very relevant to us which is why we decided to do a small ethical debate within the team. This debate made us more aware of the different difficulties that go together with research in general but also specifically the ones regarding HEKcite. We based the debate on the different questions we received from René Custers, every question was asked one by one and every team member was allowed to give his/her viewpoint about the topic.</p>
             <br>
             <br>
@@ -232,7 +235,7 @@
             
             <br>
             <br>
-     
+            <p style="text-align: justify">
             After this ethical debate, we were more determined to dig a little deeper into the world of ethics but also look at the different regulatory processes needed to start a clinical study. This is why we scheduled an appointment with the ethical committee of the university hospital of Leuven. The ethical committee gave us more information about the different juridical and regulatory procedures needed to start a clinical study, if you want to read more click here. On the other hand, they also gave us some more aspects we could think about. Such as the benefit-risk analysis, you should always keep in the back of your mind. It is important that patients always receive more benefit from the capsule than they are in risk of different complications. We did think about the complications such as the breaking of the capsule, infection or possible wrong read-outs. However, the ethical committee also pointed us in the direction of the psychological effect of our device. Some patients may find it beneficial to have more control regarding their illness but this may have the opposite effect on others. Patients could experience difficulties with having this much control or maybe would not like to know about their physical status every moment of every day. This made us think about the fact that with our device also an important psychological assessment should be made. The benefit should always exceed the risk and this is the psychical risk as well as the psychological risk.
             <br>
             <br>
