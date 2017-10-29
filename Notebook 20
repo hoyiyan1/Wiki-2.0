@@ -1,0 +1,93 @@
+{{KU_Leuven}}
+<html>
+<style type="text/css">
+        
+        h4 {
+            margin-bottom: 10px;
+        }
+        .background{
+            background:url(http://2017.igem.org/wiki/images/c/cb/KU_Leuven_Homepage2.png);
+            position: initial;
+            background-size: 100%;
+            padding: 0 10px 0 10px;
+        }
+
+        #grad {
+            background: -webkit-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Safari 5.1-6.0 */
+            background: -o-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Opera 11.1-12.0 */ 
+            background: -moz-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Firefox 3.6-15 */
+            background: linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Standard syntax */
+        }
+        
+        p {
+           text-align:justify;
+           font-size: 20px;
+        }
+        </style>
+        
+            <div id="grad">
+                    
+                        <br>
+                    
+                        <div class="background">
+                            <h1 style="text-align:center; padding: 30px; font-size:50px; color: white;">Notebook</h1>
+                                <p style="text-align: center;color: white; padding: 10px 10px 60px 10px; font-size:15px;"><strong>I know what you did last summer!</strong> KU Leuven iGEM Team 2017 has gone through some ups and downs, but that didn't stop them from being creative and to explore the world of science. Other than that, a lot of fun activities were planned. Read and know more about their adventure.
+								</p>                        
+                        </div>
+                    <br>
+                    <div class="container">
+                    
+                        <p style="text-align:justify; padding: 0px 50px 0px 50px;">
+                        	<h2>Cell culture</h2>
+                        	<br>
+                        	<IMG SRC="http://2017.igem.org/wiki/images/6/68/KULeuven_2017_notebook_cell_culture_1.png" WIDTH=100%>
+                        	<IMG SRC="http://2017.igem.org/wiki/images/a/a2/KULeuven_2017_notebook_cell_culture_2.png" WIDTH=100%>
+                        	<IMG SRC="http://2017.igem.org/wiki/images/0/00/KULeuven_2017_notebook_cell_culture_3.png" WIDTH=100%>
+                        	<br>
+                        	<h2>Lab</h2>
+                        	<br>
+                        	<IMG SRC="http://2017.igem.org/wiki/images/7/70/KULeuven_2017_Notebook_lab_1.png" WIDTH=100%>
+                        	<br>
+                        	<h2>Calcium-imaging</h2>
+                        	<br>
+                        	<IMG SRC="http://2017.igem.org/wiki/images/e/e4/KULeuven_2017_Notebook_CalciumImaging.png" WIDTH=100%>
+                        	<br>
+                        	<h2>Patch Clamp</h2>
+                        	<br>
+                        	<IMG SRC="http://2017.igem.org/wiki/images/0/0a/KULeuven_2017_Notebook_Patch_Clamp.png" WIDTH=100%>
+                        	<br>
+                        	<h2>Education</h2>
+                        	<br>
+                        	<IMG SRC="http://2017.igem.org/wiki/images/c/cd/KULeuven_2017_Notebook_education.png" WIDTH=100%>
+                        	<br>
+                        	<h2>Human practices</h2>
+                        	<br>
+                        	<IMG SRC="http://2017.igem.org/wiki/images/b/b5/KULeuven_2017_Notebook_HP.png" WIDTH=100%>
+                        	<br>
+                        	<h2>Collaboration</h2>
+                        	<br>
+                        	<IMG SRC="http://2017.igem.org/wiki/images/b/b7/KULeuven_2017_Notebook_collaboration.png" WIDTH=100%>
+                        	<br>
+                        	<h2>Hardware</h2>
+                        	<br>
+                        	<IMG SRC="http://2017.igem.org/wiki/images/b/be/KULeuven_2017_Notebook_hardware.png" WIDTH=100%>
+                        	<br>
+                        	<h2>Symposium</h2>
+                        	<br>
+                        	<IMG SRC="http://2017.igem.org/wiki/images/5/55/KULeuven_2017_Notebook_symposium.png" WIDTH=100%>
+                        	<br>
+                        	<h2>Business model</h2>
+                        	<br>
+                        	<IMG SRC="http://2017.igem.org/wiki/images/b/bd/KULeuven_2017_Notebook_BusinessModel.png" WIDTH=100%>
+                        	<br>
+                        	
+                        	
+                            <br>
+                    </div>
+
+
+
+        
+        
+</html>
+{{KU_Leuven_footer}}
