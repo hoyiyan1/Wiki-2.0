@@ -56,7 +56,7 @@
 	label {
 	  cursor: pointer;
 	  color: yellow;
-	  background-color: #00bcd4;
+	  background-color: #cc3333;
 	  box-sizing: border-box;
 	  display: -webkit-inline-box;
 	  display: -ms-inline-flexbox;
@@ -98,7 +98,7 @@
 
 	@media screen and (max-width: 800px) {
 	 h1 {
-	    display: block;
+	    display: relative;
 	  }
 
 	.tab-wrap {
@@ -172,7 +172,33 @@
 				      	<br>
 				      	<img src="http://2017.igem.org/wiki/images/3/31/IGEM_First_Meeting.JPG" WIDTH=450 HEIGHT=350><br>
 				      	<br>
-						This is the meeting where the team spirit was established and missing pieces of our adventure to success were collected. For example, who is going to be our PI? How do we get sponsors? Who will be our leader to guide us all the way through to the end of the project? Every team member was assigned a subcategory, which they will complete with passion and dedication. A very subtle move towards possible project ideas was made during this meeting.</div>
+				      	<h4> First meeting - 21 feb </h4>
+						This is the meeting where the team spirit was established and missing pieces of our adventure to success were collected. For example, who is going to be our PI? How do we get sponsors? Who will be our leader to guide us all the way through to the end of the project? Every team member was assigned a subcategory, which they will complete with passion and dedication. A very subtle move towards possible project ideas was made during this meeting.
+						<br>
+						<br>
+						<br>
+						<img src="http://2017.igem.org/wiki/images/f/f1/IGEM_KULEUVEN2017.png" WIDTH=450 HEIGHT=350><br>
+						<br>
+						<h4>Project Ideas - 27 </h4>
+						This week, we discussed the many proposals about project ideas along with some professors. There were some remarkable ideas on the table: Development of an ecosystem in a space station, DNA fitting to predict an individual’s health, weight and nutrition, introduction of a filter over intestinal villus for better uptake of gluten in Coeliac patients, and more.
+						<br>
+						<br>
+						We also completed our team registration and team leaders were chosen for the subcategories. <i><strong>Nothing could stop us from entering this!</strong></i>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						</div>
 				    </div>
 				    
 				    <div class="slide"></div>
@@ -181,4 +207,3 @@
 	</div>
 </div>
 </html>
-
