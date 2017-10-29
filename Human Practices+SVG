@@ -92,7 +92,7 @@
                     </div>
                     <br>
 <p>
-                                Using this dynamic data collection instead of the static measurements performed in hospitals today, we might increase both therapeutic outcomes and quality of life of patients. In order to investigate the different views on our projects we talked to specialists in several fields where therapeutic drug monitoring is of great importance: transplantations, psychotics and epileptics. Three specialists have provided insights in how they expect our project will influence the lives of their patients and future treatments. We used this information to further shape our project.
+                               <p> Using this dynamic data collection instead of the static measurements performed in hospitals today, we might increase both therapeutic outcomes and quality of life of patients. In order to investigate the different views on our projects we talked to specialists in several fields where therapeutic drug monitoring is of great importance: transplantations, psychotics and epileptics. Three specialists have provided insights in how they expect our project will influence the lives of their patients and future treatments. We used this information to further shape our project.
                                                     </p>
                     
 <br>
@@ -167,36 +167,53 @@
                     <div class="pi">
                         <div class="header">
                             <div class="intro">
-                                <h3>Peter Sinnaeve</h3>
-                                <p>Prof. Dr. Peter Sinnaeve is a cardiologist who is specialized in acute cardiology, intensive care cardiology, interventional cardiology and pericardium disorders. Next to this, he is a part-time teacher at the Faculty of Medicine of KU Leuven. </p>
+                                <h3>Professor Peter Sinnaeve MD, PhD</h3>
+                                <p>Prof. Dr. Peter Sinnaeve is a cardiologist who is specialized in acute cardiology, intensive care cardiology, interventional cardiology and pericardium disorders. Next to this, he is a part-time teacher at the Faculty of Medicine of KU Leuven.</p>
                             </div>
                             <div class="shortcontent">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                <p>After our meeting with professor Sinnaeve we learned that therapeutic drug monitoring of ivabradine is not clinically relevant within the field of cardiology. However professor Sinnaeve reassured us that using ivabradine as a proof-of-concept is still valuable. Next to this, he mentioned the crucial value our project could have in measuring drug concentrations during phase 1 clinical trials where a strict follow-up and good patient compliance is of great importance.</p>
+                            </div>
+                        </div>
+                        <div class="content" style="display: none;">
+                                <p>
+                                 Looking at the three ion channels we introduced, the mHCN2 channel is the most crucial one to establish an intrinsic rhythm in HEK cells. When researching possible drugs that could inhibit or stimulate the mHCN2 channel, we discovered an important antagonist: ivabradine. When beta blockers are no longer sufficient for the symptomatic management of stable heart related chest pain or heart failure, ivabradine is prescribed.
+                                                                <br><br>
+
+                                After doing some experiments with ivabradine as a possible substrate to change the electrical rhythm of the HEK cells, we wanted to establish if therapeutic drug monitoring of ivabradine is indeed necessary. Therefore, we scheduled a meeting with cardiologist Peter Sinnaeve. He made us realize that we overlooked a simple and commonly used marker for ivabradine monitoring, namely the heart rhythm itself. Ivabradine’s function is lowering the heart rate hence making the heart a direct read-out of the effectivity of the drug. This means that there is no medical need for therapeutic drug monitoring of ivabradine. However, dr. Sinnaeve reassured us that using ivabradine as a proof-of-concept, to show that the rhythm can be changed, would be fitting.
+                                <br><br>
+
+                                These insights made us wonder if there are other possible applications of our device in cardiology. One of the biggest problems in cardiology is the burden on society caused by the numerous patients with heart failure. Suffering from heart failure results in multiple hospital visits and thus demands a great amount of resources. The future perspectives of treating heart failure include home nursing, remote medicine and remote monitoring. Professor Sinnaeve emphasized the monitoring of water excess. Water excess in the body results in rapid decrease of heart function. Nowadays, this water excess is only observed when patients show several symptoms. Earlier detection would be a great step forward in treatment. A lot of research regarding monitoring water excess is already conducted, however, the rhythm of our HEKcite cells could be influenced by osmolarity which could be a tool for fluid measurement.<br>
+                                <br>
+
+                                Finally, professor Sinnaeve indicated that our project could be useful during phase 1 clinical studies in cardiology as well as other branches of medicine. Currently, real-time monitoring of different drug concentrations is highly requested by medical regulatory agencies. These measurements can give more insight in the mechanism of action of different drugs but can also be used as a control mechanism for patient compliance. During clinical studies, it is of great importance to verify drug intake as this determines the outcome of the study. With our device researchers would be able to continuously monitor drug concentrations. This would help validate new therapies that could otherwise be declined due to lack of patient compliance. Additionally, the HEKcite cells could provide valuable information on a drug’s therapeutic time window. Summarized, our device could result in the acquirement of more detailed information during clinical studies.<br><br>
+
+                                Conclusion
+
+                                Before this meeting, when trying to influence the rhythm of the HEKcite cells, we were exclusively using ivabradine. However, after receiving the valuable information provided by professor Sinnaeve, we decided to adjust our experiments, namely by incorporating ethosuximide, of which professor Van Paesschen reassured us that therapeutic drug monitoring is crucial. Ethosuximide is an anti-epileptic and acts as an inhibitor of T-type calcium channels such as the 𝛼1G channel present in the HEKcite cells. We did, however, not completely discard ivabradine as professor Sinnaeve did mention it could function as a proof-of-concept. By changing these aspects of our research, we attempt to give our project more societal relevance in order to be able to help a wider range of patients.</p>
+                       
+                           
+                        </div>
+                    </div>
+                    <div class="pi">
+                        <div class="header">
+                            <div class="intro">
+                                <h3>Professor Filip Bouckaert</h3>
+                                <p> </p>
+                            </div>
+                            <div class="shortcontent">
+                                <p></p>
                             </div>
                         </div>
                         <div class="content" style="display: none;">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                            <div style="text-align: center;""><img src="http://2017.igem.org/wiki/images/2/26/Ku_Leuven_Team4.png" width="200px" height="auto"></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div></div>
+                                                            </p>
+                        </div>
                        
                             </p>
-                        </div>
+                        
                     </div>
+                </div>
+            </div>
                 
                     
             <div class="container">
