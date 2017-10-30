@@ -363,7 +363,7 @@
 
 	/* font and text */
 	.igem_2017_content_wrapper p { 
-		padding: 0px 15px; 
+		padding: 10px 15px; 
 		font-size: 13px;
 	}
 
@@ -757,42 +757,42 @@ $(document).ready(function() {
 								<li id="Description_page"><a href="http://2017.igem.org/Team:KU_Leuven/Description">Description</a></li>
 								<li id="Design_page"><a href="http://2017.igem.org/Team:KU_Leuven/Design">Design</a></li>
 								<li id="Experiments_page"><a href="http://2017.igem.org/Team:KU_Leuven/Protocols">Protocols</a></li>
-								<li id="Logbook_page"><a href="http://2017.igem.org/Team:KU_Leuven/Logbook">Logbook</a></li>
+								
 								<li id="Notebook_page"><a href="http://2017.igem.org/Team:KU_Leuven/Notebook">Notebook</a></li>
 								<li id="Interlab_page"><a href="http://2017.igem.org/Team:KU_Leuven/InterLab">InterLab</a></li>
 								<li id="Contributions_page"><a href="http://2017.igem.org/Team:KU_Leuven/Contribution">Contribution</a></li>
 								<li id="Model_page"><a href="http://2017.igem.org/Team:KU_Leuven/Model">Model</a></li>
-								<li id="Results_page"><a href="http://2017.igem.org/Team:KU_Leuven/Results">Results</a></li>
+								
 								<li id="Demonstrate_page"><a href="http://2017.igem.org/Team:KU_Leuven/Demonstrate">Demonstrate</a></li>
 								<li id="Attributions_page"><a href="http://2017.igem.org/Team:KU_Leuven/Attributions">Attributions</a></li>
-								<li id="Hardware_page"><a href="http://2017.igem.org/Team:KU_Leuven/Hardware">Hardware</a></li>
+								
 							</ul>
 						</li>
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PARTS<span class="caret"></span></a>
+						<li class="dropdown active">
+							<a href="http://2017.igem.org/Team:KU_Leuven/Parts" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PARTS<span class="caret"></span></a>
 							<ul class="dropdown-menu dropdown-menu-left">
 								<li id="Parts_page"><a href="http://2017.igem.org/Team:KU_Leuven/Parts">Parts</a></li>
 								<li id="Basic_Part_page"><a href="http://2017.igem.org/Team:KU_Leuven/Basic_Part">Basic Parts</a></li>
 								<li id="Composite_Part_page"><a href="http://2017.igem.org/Team:KU_Leuven/Composite_Part">Composite Parts</a></li>
-								<li id="Part_Collection_page"><a href="http://2017.igem.org/Team:KU_Leuven/Part_Collection">Part Collection</a></li>
+								
 							</ul>
 						</li>
 						<li id="Safety_page"><a href="http://2017.igem.org/Team:KU_Leuven/Safety">SAFETY</a></li>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HUMAN PRACTICES<span class="caret"></span></a>
+							<a href="http://2017.igem.org/Team:KU_Leuven/HP/HP_Main" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HUMAN PRACTICES<span class="caret"></span></a>
 							<ul class="dropdown-menu dropdown-menu-left">
 								<li id="HP_Main_page"><a href="http://2017.igem.org/Team:KU_Leuven/HP/HP_Main">Human Practices</a></li>
 								<li id="Silver_page"><a href="http://2017.igem.org/Team:KU_Leuven/HP/Silver">Silver</a></li>
 								<li id="Gold_Integrated_page"><a href="http://2017.igem.org/Team:KU_Leuven/HP/Gold_Integrated">Integrated and Gold</a></li>
 								<li id="Education"><a href="http://2017.igem.org/Team:KU_Leuven/HP/Education">Education</a></li>
-								<li id="Engagement_page"><a href="http://2017.igem.org/Team:KU_Leuven/Public">Public Engagement</a></li>
+								<li id="Engagement_page"><a href="http://2017.igem.org/Team:KU_Leuven/Engagement">Public Engagement</a></li>
 							</ul>
 						</li>
 						<li class="dropdown">
 							<a href="http://2017.igem.org/Team:KU_Leuven/Awards" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">AWARDS<span class="caret"></span></a>
 							<ul class="dropdown-menu dropdown-menu-left">
 								<li id="Applied_Design_page"><a href="http://2017.igem.org/Team:KU_Leuven/Applied_Design">Applied Design</a></li>
-								<li id="Entrepeneurship_page"><a href="http://2017.igem.org/Team:KU_Leuven/Entrepeneurship">Entrepeneurship</a></li>
+								<li id="Entrepeneurship_page"><a href="http://2017.igem.org/Team:KU_Leuven/Entrepreneurship">Entrepeneurship</a></li>
 								 
 								<li id="Model_page"><a href="http://2017.igem.org/Team:KU_Leuven/Model">Model</a></li>
 							</ul>
