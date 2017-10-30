@@ -1,0 +1,70 @@
+{{KU_Leuven}}
+<html>
+<style type="text/css">
+        
+        h4 {
+            margin-bottom: 10px;
+        }
+        .background{
+            background:url(http://2017.igem.org/wiki/images/c/cb/KU_Leuven_Homepage2.png);
+            position: initial;
+            background-size: 100%;
+            padding: 0 10px 0 10px;
+        }
+
+        #grad {
+            background: -webkit-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Safari 5.1-6.0 */
+            background: -o-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Opera 11.1-12.0 */ 
+            background: -moz-linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Firefox 3.6-15 */
+            background: linear-gradient(#C17952,#ffd4a6,#edf2f4); /* Standard syntax */
+        }
+        
+        p {
+           text-align:justify;
+           font-size: 20px;
+        }
+        </style>
+        
+            <div id="grad">
+                    
+                        <br>
+                    
+                        <div class="background">
+                            <h1 style="text-align:center; padding: 30px; font-size:50px; color: white;">Interlab</h1>
+                                <p style="text-align:center;color: white; padding: 10px 10px 60px 10px; font-size:15px;">.... </p>
+                        
+                        </div>
+                    <br>
+                    <div class="container">
+                    
+                        <p style="text-align:justify; padding: 0px 50px 0px 50px;">
+                            KU Leuven is participating in the 2017 interlab study! We started our interlab journey by transforming the parts into Subcloning Efficiency™ DH5α™ E. coli cells obtained from Invitrogen. We obtained several colonies for each plasmid, and were ready to continue to the next steps.
+                            <br>
+                            <br>
+                            In the meantime, we have become more familiar with the plate reader: Perkin-Elmer Victor X4. First, we aimed to measure the OD600 reference point. For this, we used the closest filter available filter, at 595nm. 
+                            <br>
+                            Next, we prepared the fluorescein fluorescence standard curve. For this, we prepared the plate according to the protocol and measured the fluorescence using two different programmes: Fluororescine 1s and Fluorescine 0.1s. Unfortunately, no further modes or options were available. The best results were obtained using the Fluorescine 0.1s program, and we used these settings for the further experiments.
+                                        <img src="http://2017.igem.org/wiki/images/5/52/InterlabKu_Leuven.PNG" width="70%" style="float: right; margin: 20px 0px 10px 20px;"></img>
+
+                            <br> <br>
+                            We then selected two colonies from each plate and grew them overnight in LB medium containing the chloramphenicol resistance marker. During this step, we were assisted by the iGEM Little Snazzy Man. Thank you, US AFRL CarrollHS team! The next morning, we continued with the cell measurement protocol. Our cells were diluted based on the OD600 measured in a spectrophotometer. 
+
+                            <br><br>
+                            We then collected the samples immediately and after 2, 4 and 6 hours. They were kept on ice until the OD and fluorescence were measured using the plate reader. The obtained results are shown in figure 1.
+                            <br><br>
+
+                            All data has been shared with the iGEM HQ and we are happy to have contributed to the interlab study! We hope these results can help improving the measurement tools available to labs worldwide.
+                            <br><br>
+
+                            Figure 1: The results of the measurements for the Interlab study. On the left, the mean fluorescence value, corrected for both background signal and the OD of the samples, is plotted for each device. The line colors indicate the different devices, while the error bars indicate the standard error based on the two biological duplicates (originating from different colonies), each measured in four duplicates. On the right, the mean fluorescence value is shown, corrected only for background signal, not for the OD of the samples.
+
+                        </p>
+
+                    </div>
+
+
+
+        
+        
+</html>
+{{KU_Leuven_footer}}
