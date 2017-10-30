@@ -1,0 +1,252 @@
+{{KU_Leuven}}
+
+<html>
+<style type="text/css">
+        .person h3::before,
+        .person h3::after {
+            content: '"';
+        }
+
+        .person h2 {
+            padding-bottom: 0;
+        }
+
+        .person h3 {
+            margin: 0;
+            padding: 0;
+
+            font-size: 1em;
+            text-align: right;
+
+            font-style: italic;
+
+            padding: 0px 15px;
+            border-bottom: 0px;
+            color: #000;
+            font-family: Tahoma, Geneva, sans-serif !important;
+            font-weight: 100 !important;
+        }
+        #grad {
+            background: -webkit-linear-gradient(#7782b0,#ffd4a6,#afb7d2,#d6cbe1,#edf2f4); /* Safari 5.1-6.0 */
+            background: -o-linear-gradient(#7782b0,#ffd4a6,#afb7d2,#d6cbe1,#edf2f4); /* Opera 11.1-12.0 */ 
+            background: -moz-linear-gradient(#7782b0,#ffd4a6,#afb7d2,#d6cbe1,#edf2f4); /* Firefox 3.6-15 */
+            background: linear-gradient(#7782b0,#ffd4a6,#afb7d2,#d6cbe1,#edf2f4); /* Standard syntax */
+        }
+    #team .person {
+        position: relative;
+        height: 24em;
+    }
+
+    #team .person * {
+    }
+
+    #team .person .image {
+        width: 100%;
+        border-bottom: 2px solid #cc3333;
+        position: relative;
+        padding: 10px 20px;
+        text-align: center;
+        height: 20em;
+    }
+
+    #team .person .image img {
+        width: auto;
+        height: 18em;
+    }
+
+    #team .person .image::after {
+        position: absolute;
+        width: 16px ;
+        height: 16px;
+        bottom: -9px;
+        left: 8px;
+        content: '';
+        background-image: url("http://2017.igem.org/wiki/images/2/29/KU_Leuven-Sine.png");
+        background-size: 16px 16px;
+    }
+
+    #team .person h2{
+        font-size: 1.8em;
+        margin: 0;
+        text-align: right;
+    }
+
+    #team .person p{
+        display: none;
+        -webkit-transition: all 0.5s linear;
+        -moz-transition: all 0.5s linear;
+        -o-transition: all 0.5s linear;
+        transition: all 0.5s linear;
+
+    }
+
+    #team .person:hover p{
+        display: block; 
+    }
+
+    #team .person:hover .image{
+        height: 0;
+    }
+    
+    #team .person:hover .image img{
+        height: 0;
+    }
+
+    /* IF THE SCREEN IS LESS THAN 1200PX */
+    @media only screen and (max-width: 990px) {
+        #team .person {
+            position: relative;
+            height: auto;
+        }
+
+        #team .person p{
+            display: block; 
+        }
+
+        #team .person .image{
+            height: 0;
+        }
+        
+        #team .person .image img{
+            height: 0;
+        }
+    }
+    .igem_2017_content_wrapper .team .jumbotron{
+        background-color: #f2f2f2;
+        background-size: contain;
+        background-position: bottom;
+        background-repeat: repeat-x;
+    }
+    </style>
+    <div id="grad">
+                        <div class="team" id="team">
+                            <div class="jumbotron">
+                                <div class="container">
+                                    <div class="grad">
+                                        <h1>Team</h1>
+                                        <p style="text-align:justify">Meet the 2017 KU Leuven iGEM team ... An enthusiastic, goal oriented, multidisciplinary group of students spanning five different nationalities and seven different study tracks; together presenting "HEKcite". The team was founded when four students took the initiative to revive the project, going around different campuses and spreading word of the competition. By the end of December, the team was formed! Starting February of 2017, the 13 students began this remarkable journey, and with every weekly meeting, the team bond grew stronger and stronger and we developed as a unit more and more. As the weeks passed by, we came up with the concept of HEKcite, which represents much more than just our project, it represents what we as a team stand for, our creativity and teamwork established through passion and limitless dedication. All throughout summer, we have sacrificed our vacations, to be able to work on this concept, to see it grow and evolve every single day, to share an endless amount of knowledge, fun, and, experiences.</p>
+                                    </div>
+                                </div>
+                            </div> 
+                            <h1 style="text-align:center;"><strong>Team Captain</strong></h1> 
+                            <br>    
+                            <div class="container"> 
+
+                                <div class="person col-md-4">
+                                        <img style="opacity: 0.2;" src="http://2017.igem.org/wiki/images/6/64/KU_Leuven-Logo.svg" />
+                                </div>
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/e/e8/KU_Leuven_Team14.jpeg" />
+                                    </div>
+                                    <h2>Victor Top</h2>
+                                    <h3>Victator</h3>
+                                    <p>Toppe is a second year master student of Bioscience Engineering specializing in Cell and Gene Technology, interesting, huh? Together with three other members of the team, he took the initiative to form the 2017 KU Leuven iGEM team, much like Captain America forming the Avengers. Only difference is that Toppe is cooler than Captain America. His hobbies include playing soccer and rugby alongside other sports. Toppe was motivated to start iGEM in the hopes of pursuing a real-life project/experience to enhance his set of skills. Toppe is considered to be the general manager of our group, able to run the team and manage all that is needed for the project to run smoothly. </p>
+                                </div>
+                                <div class="person col-md-4">
+                                        <img style="opacity: 0.2;" src="http://2017.igem.org/wiki/images/6/64/KU_Leuven-Logo.svg" />
+                                
+                                </div>
+
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/4/46/KULeuven_Team2.png" />
+                                    </div>
+                                    <h2>Joffré Verniers</h2>
+                                    <p>Joffré is a second year master student of Bioscience Engineering specializing in Cell and Gene Technology- yes, we have a couple of those in our team! Joffré was one of the four who took the initiative to form this year’s iGEM team, so we consider him a sort of Captain iGEM. However, Joffré is mostly famous for his set of hilarious socks that he always wears. His hobbies include sporting and playing video games, a bit nerdy, right? Like Toppe, Joffré was motivated to start iGEM in order to get his hands busy with a real-life worthy experience. Joffré mainly has his hands full with growing and maintaining cell cultures, along with rocking the craziest pairs of socks, of course.</p>
+                                </div>
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/b/b3/KU_LEUVEN_Team13.png" />
+                                    </div>
+                                    <h2>Liesbeth Van Der Bauwhede</h2>
+                                    <h3>Betty</h3>
+                                    <p>Liesbeth is a second year master student of Bioscience Engineering specializing in Bionanotechnology, and yes you read that right. Liesbeth is the female force and one of the original four taking initiative to start this year’s iGEM team, so in a way, we can consider her our Wonder Woman. When she’s not busy doing whatever Nano research that she is usually doing, Liesbeth spends her time dancing or playing music. When asked what her motivation was to go through with iGEM, her response was quite simple, “because I want to do good in the world”. Liesbeth is an all-around member, working in an out the lab, producing and editing videos, and just spreading positive vibes all around the work place!</p>
+                                </div>
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/2/26/Ku_Leuven_Team4.png" />
+                                    </div>
+                                    <h2>Pieter-Jan Creemers</h2>
+                                    <h3>PJ</h3>
+                                    <p>PJ is a second year master student of Bioscience Engineering specializing in Cell and Gene Technology, yes there is one more of those on our group. PJ is the last of the four that started the formation of the iGEM team this year, so it’s only fair if we compare him to Iron Man and the avengers. Similar to Iron Man, PJ has a nerdy side to him, especially when it comes to Game of Thrones. Other hobbies of his include running, traveling around the world and learning about different cultures. When asked why he took the initiative to form this year’s team, his response was that he wanted to get his hands busy with a real life experience, making use of his knowledge. </p>
+                                </div>
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/5/5d/KU_Leuven_Team11.png" />
+                                    </div>
+                                    <h2>Mathias Vissers</h2>
+                                    <h3>Mat-Jas</h3>
+                                    <p>Afrofish is fifth year medicine student, so yes, we have an almost-doctor on our team! Afrofish is considered a special force of his own in the team, he’s the member with crazy hair and the complex ideas and suggestions. His creativity and ability to let his mind run loose is specifically why he is a vital force on this team. His hobbies include snowboarding, electric skateboarding, and jumping on the trampoline... When asked why he joined iGEM this year, his response was “he loves to be creative with science”. Afrofish is mainly in the lab working on stuff that none of us really understand, we sometimes doubt if he actually is working...</p>
+                                </div>
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/7/77/KU_Leuven_Team6.png" />
+                                    </div>
+                                    <h2>Jana Peeters</h2>
+                                    <p>Jana is a second year master student of Biomedical Sciences specializing in Clinical and Biomedical Sciences, wow. Jana has expertise in many areas, which makes her very valuable for the team. She is never afraid to speak her mind, a quality which is extremely important for the success of any team project. Jana’s hobbies include playing soccer, adding to her skills of fitting well as part of a team. Her motivation to be a part of this year’s iGEM is her delight of being a part of team and her curiosity to try new things, way to go Jana!</p>
+                                </div>
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/7/79/Kuleuven_team1.png" />
+                                    </div>
+                                    <h2>Sissel Michelsen</h2>
+                                    <h3>Sis</h3>
+                                    <p>Sissel is a first year master student of Biomedical Sciences specializing in Management and Communication, so more or less the social butterfly in our group. Sissel is the youngest of the group, proving that age is truly just a number! Her multiple talents, ranging from communication outside the team to her lab skills, make her an important asset to the team.  When asked about her motivation to join iGEM, Sissel gave an extremely interesting response by saying “I wanted to experience what it was to do real science as part of a team, sort of experiencing the whole package that is iGEM”. Much like the rest of the team, her constant infectious smile just sets a positive vibe in the workplace. </p>
+                                </div>
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/2/20/KU_Leuven_Team5.png" />
+                                    </div>
+                                    <h2>Nina Versin</h2>
+                                    <h3>Anin Nisrev</h3>
+                                    <p>Gina is a second year master student of Biomedical Engineering, sounds complex, doesn’t it? Gina is considered a key player in the team as her modeling skills are vital for the success of the project. Gina’s hobbies include traveling and cooking, something that every person should aspire to be good at. Given that she comes from an engineering background, her main motivation to join iGEM this year was to experience the biological side of science, setting a new challenge for herself!</p>
+                                </div>
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/7/79/KU_Leuven_Team12.jpeg" />
+                                    </div>
+                                    <h2>Evelien Van Hoeymissen</h2>
+                                    <h3>Eve</h3>
+                                    <p>Eve is a first year master student of Biomedical Sciences specializing in Research with a degree in Lab Technician Expertise, so she practically defines the saying “the best of both worlds”. Her vast knowledge in the lab makes her a key member in the team. Since Eve is the oldest in the group, it’s fair to say she’s the mother of the team. Eve manages the lab protocols, granted she has a lot of experience in and out the lab. Eve’s hobbies include reading, listening to, and playing music! Her motivation to join iGEM is to learn more, experience more, get connected with those who are as motivated as she is, and the fact that she just loves science!</p>
+                                </div>
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/f/f7/KU_Leuven_Team7.png" />
+                                    </div>
+                                    <h2>Imke Ensinck</h2>
+                                    <h3>DNA Girl </h3>
+                                    <p>Imke is a second year master student of Biochemistry, so she’s all about that life under the microscope. Aside knowing the lab like the back of her hand, one super interesting fact about Imke is that she’s really into bees and beekeeping- yes you read that right. Imke’s motivation to be a part of this year’s iGEM team because of her extreme interest in synthetic biology. When Imke is not too busy working in the lab or teaching the rest of us on how to act professional in the lab, she cracks endless jokes that always set a positive mood all around. </p>
+                                </div>
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/9/9d/KU_Leuven_Team8.png" />
+                                    </div>
+                                    <h2>Thomas Van Riel</h2>
+                                    <h3>Web<s>master</s>slave</h3>
+                                    <p>Thomas is second year Industrial Engineering student with a previous degree in Computer Programming and Game Development, yes, we have an almost-hacker on our team too. Thomas has a pivotal role in the team given his intimate knowledge of web design and coding. Thomas is very careful with his words, but his facial expressions always give him away! His hobbies include wood-working, going for long runs, and playing the double bass; which all says a lot about his personality. His motivation to join iGEM was to expand his knowledge about nature, what a response!</p>
+                                </div>
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/9/9a/Headshot.JPG" />
+                                    </div>
+                                    <h2>Youssef El Laithy</h2>
+                                    <h3>Joe</h3>
+                                    <p>Joe is a first year master student of Biotechnology, which basically means that he’s a pretty smart guy! If you’re looking for a good laugh, a witty comment or a compelling story about his love life, Joe’s your guy. As his hobbies are eating, eating, and- you guessed it- eating, it’s no surprise that he’s one of the bigger guys in the team. However, the shape of ‘You’ is more than evenly matched by his big heart. His self-proclaimed added value to the team is providing us with laughs and positive vibes, and let this be one of the few things that our team can unanimously agree on! His motivation to join iGEM was to satisfy his thirst for knowledge, getting to work with awesome people, and for the experience.</p>
+                                </div>
+                                <div class="person col-md-4">
+                                    <div class="image">
+                                        <img src="http://2017.igem.org/wiki/images/e/e7/KU_LEUVEN_Team15.png" />
+                                    </div>
+                                    <h2>Hoyi Yan</h2>
+                                    <h3>Cindy</h3>
+                                    <p>Hoyi is a first year master student of Biomedical Sciences with a specialization in Research. Given that she comes from Holland, we Belgians often crack jokes at her expense. Her skills in the lab make her a very important asset to the team. Her hobbies include playing different musical instruments and writing (which she does very well might we add!). When asked about her motivation to join iGEM, her response was an opportunity to work together with students of different faculties, getting to meet new awesome people, and the ability to work on a project from scratch.</p>
+                                </div>
+                            </div>
+                        </div>
+                    
+</div>
+			
+</html>
+
+{{KU_Leuven_footer}}
